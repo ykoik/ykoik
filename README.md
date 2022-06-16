@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing a pixel art.
 - I’m currently learning and retrying for js codes.
 - I’m looking to do the works for some text-mining.
-- How to reach me: under consideration.
+- How to reach me: under consideration and starts twitter @ykoik1, Thank-you!
 
 <!---
 ykoik/ykoik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
